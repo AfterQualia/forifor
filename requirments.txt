@@ -3,3 +3,4 @@ unicorn
 beautifulsoup4
 requests
 psycopg2
+selenium
